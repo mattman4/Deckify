@@ -5,3 +5,9 @@ A multi-user web app focusing on revising flashcards, made for my A Level CS NEA
 - NodeJS
   - [express](https://www.npmjs.com/package/express) web framework
   - [express-session](https://www.npmjs.com/package/express-session) & [express-mysql-session](https://www.npmjs.com/package/express-mysql-session) to store user sessions
+  - [bcrypt](https://www.npmjs.com/package/bcrypt) for user password hashing
+  - [ejs](https://www.npmjs.com/package/ejs) for dynamic web pages
+  - [mysql](https://www.npmjs.com/package/mysql) to handle database
+  - [shuffle-array](https://www.npmjs.com/package/shuffle-array) to shuffle cards in a deck
+- HTML, CSS & JS
+  - [Bootstrap](https://getbootstrap.com/) used for design
