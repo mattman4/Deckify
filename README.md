@@ -10,4 +10,4 @@ A multi-user web app focusing on revising flashcards, made for my A Level CS NEA
   - [mysql](https://www.npmjs.com/package/mysql) to handle database
   - [shuffle-array](https://www.npmjs.com/package/shuffle-array) to shuffle cards in a deck
 - HTML (static) EJS (dynamic), CSS & JS
-  - [Bootstrap](https://getbootstrap.com/) used for design
+  - [Bootstrap v5.1.3](https://getbootstrap.com/) used for design
